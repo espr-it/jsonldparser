@@ -6,9 +6,6 @@
 	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jsonldparser</name>
-	<url>http://maven.apache.org</url>
-
-	<name>jsonldparser</name>
 	<description>JSON LD Parser</description>
 	<url>http://github.com/espr-it/jsonldparser</url>
 
